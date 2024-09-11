@@ -30,5 +30,6 @@ for index, row in data.iterrows():
     ).add_to(m)
 # Save the map to an HTML file
 m.save('map.html')
-![1000051993](https://github.com/user-attachments/assets/381c9a95-b204-4f57-beb2-9d37fa6d0e72)
-![1000051995](https://github.com/user-attachments/assets/e006e703-b5b8-40b9-ab37-c9ded1ec34f1)
+![1000051993](https://github.com/user-attachments/assets/6b20cade-3625-49fa-bb3a-e14f4d407283)
+![1000051995](https://github.com/user-attachments/assets/f0265767-7b0b-41c7-a440-42955df22286)
+
